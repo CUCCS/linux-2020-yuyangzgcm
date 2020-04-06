@@ -70,7 +70,7 @@
 
 
 ## Lesson 1
-https://asciinema.org/a/RhTSGMHvwpqEyxAcXeOgPpuvt
+[![asciicast](https://asciinema.org/a/RhTSGMHvwpqEyxAcXeOgPpuvt.svg)](https://asciinema.org/a/RhTSGMHvwpqEyxAcXeOgPpuvt)
 - `:q!` : 不保存退出
 - `wq` : 保存退出
 - `x` : 删除单个字符
@@ -78,7 +78,7 @@ https://asciinema.org/a/RhTSGMHvwpqEyxAcXeOgPpuvt
 - `A` : 行尾插入
 
 ## Lesson 2
-https://asciinema.org/a/IzHmA0hipmMZacwnWJy2o12IP
+[![asciicast](https://asciinema.org/a/IzHmA0hipmMZacwnWJy2o12IP.svg)](https://asciinema.org/a/IzHmA0hipmMZacwnWJy2o12IP)
 - `dw` : 删除光标开始到下一个词之间的内容
 - `d$` : 删除当行光标后的所有内容
 - `dd` : 删除整行
@@ -89,14 +89,14 @@ https://asciinema.org/a/IzHmA0hipmMZacwnWJy2o12IP
 - `CTRL-R` : 重做被取消的操作
 
 ## Lesson 3
-https://asciinema.org/a/B3zHey3VF2zdYeuUY7Rw1O1SL
+[![asciicast](https://asciinema.org/a/B3zHey3VF2zdYeuUY7Rw1O1SL.svg)](https://asciinema.org/a/B3zHey3VF2zdYeuUY7Rw1O1SL)
 - `p` : 输出被删除的内容
 - `r` : 替换光标上的字符
 - `c$` : 改变从光标位置到行尾内容
 - `ce` : 改变从光标到词尾内容
 
 ## Lesson 4
-https://asciinema.org/a/OfvCwSojTSYnvQEMx5U4qjCqb
+[![asciicast](https://asciinema.org/a/OfvCwSojTSYnvQEMx5U4qjCqb.svg)](https://asciinema.org/a/OfvCwSojTSYnvQEMx5U4qjCqb)
 - `CTRL-G` : 显示光标在文件中的位置和文件状态
 - `G` : 到文件尾部
 - `number G` : 跳到`number`行
@@ -111,7 +111,7 @@ https://asciinema.org/a/OfvCwSojTSYnvQEMx5U4qjCqb
 
 
 ## Lesson 5
-https://asciinema.org/a/7LmUETBfwDTEwTYc6UQ2yvKp3
+[![asciicast](https://asciinema.org/a/7LmUETBfwDTEwTYc6UQ2yvKp3.svg)](https://asciinema.org/a/7LmUETBfwDTEwTYc6UQ2yvKp3)
 - `:!command` : 执行外部命令
 - `:w filename` : 当前vim打开文件内容写入`filename`文件中
 - `v motion :w filename` : 将选中行内容写入`filename`
@@ -119,7 +119,7 @@ https://asciinema.org/a/7LmUETBfwDTEwTYc6UQ2yvKp3
 - `:r !cmd` : 将`cmd`的输出显示
 
 ## lession 6
-https://asciinema.org/a/ygxTenb9VS2Y649Nuy5waMiQ6
+[![asciicast](https://asciinema.org/a/ygxTenb9VS2Y649Nuy5waMiQ6.svg)](https://asciinema.org/a/ygxTenb9VS2Y649Nuy5waMiQ6)
 - `o` : 光标下打开一行，进入插入模式
 - `O` : 光标上打开一行
 - `a` : 光标后插入
@@ -132,5 +132,5 @@ https://asciinema.org/a/ygxTenb9VS2Y649Nuy5waMiQ6
 - `hls` : 高亮匹配短语
 
 ## lession 7
-https://asciinema.org/a/Z2VBd1sWv8l8abe0Vn8uWjieh
+[![asciicast](https://asciinema.org/a/Z2VBd1sWv8l8abe0Vn8uWjieh.svg)](https://asciinema.org/a/Z2VBd1sWv8l8abe0Vn8uWjieh)
 
